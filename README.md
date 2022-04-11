@@ -4,7 +4,7 @@
 Introduction Netflix, the world’s largest on-demand internet streaming media and online DVD movie rental service provider.it Founded August 29, 1997, in Los Gatos, California by Marc and Reed. It has 69 million members in over 60 countries enjoying more than 100 million hours of TV shows and movies per day Netflix is the world’s leading internet entertainment service with enjoying TV series, documentaries, and feature films across a wide variety of genres and languages. I was curious to analyze the content released in Netflix platform which led me to create these simple, interactive, and exciting visualizations and find similar groups of people.
 
 <p align="center">
-<img src="netflix.jpg" width="600" height="200" >
+<img src="netflix.jpg" width="600" height="400" >
 </p>
 
 ## Problem Statement
@@ -24,3 +24,7 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 * duration : Total Duration - in minutes or number of seasons
 * listed_in : Genere
 * description: The Summary description
+
+## Exploring Solutions
+Having a deeper understanding of what problem we are trying to solve, what the users’ needs, and frustrations are, and what the goals are for achieving the best possible solution for both for the business as well as the user, I began by listing out the possible solutions that were arrived from the research.
+1. Improve rating system: Use the star rating rather than a thumbs up and thumbs down rating system to help guide in decision making when selecting a film.
