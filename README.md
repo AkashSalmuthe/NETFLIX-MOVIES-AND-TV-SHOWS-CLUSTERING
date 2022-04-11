@@ -28,23 +28,17 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 ## Exploring Solutions
 Having a deeper understanding of what problem we are trying to solve, what the users’ needs, and frustrations are, and what the goals are for achieving the best possible solution for both for the business as well as the user, I began by listing out the possible solutions that were arrived from the research.
 
-### 1. Improve rating system: 
-Use the star rating rather than a thumbs up and thumbs down rating system to help guide in decision making when selecting a film.
+**1. Improve rating system:** Use the star rating rather than a thumbs up and thumbs down rating system to help guide in decision making when selecting a film.
 
-### 2. Separate recently watched: 
-Hide the movies and TV-Shows on a separate page so users don’t have to scroll through those already seen. — users have to do more searching
+**2. Separate recently watched:** Hide the movies and TV-Shows on a separate page so users don’t have to scroll through those already seen. — users have to do more searching
 
-### 3. Randomize a Movie:
-When users are unsure of what to choose, Netflix will randomly select something to watch based on their viewing history.
+**3. Randomize a Movie:** When users are unsure of what to choose, Netflix will randomly select something to watch based on their viewing history.
 
-### 4. Show popular/trending films:
-Create a category which showcases only trending content.
+**4. Show popular/trending films:** Create a category which showcases only trending content.
 
-### 5. Connect with Friends:
-It was proven that users watch shows and movies based on friend recommendations so this may be useful for keeping users locked into Netflix for longer.
+**5. Connect with Friends:** It was proven that users watch shows and movies based on friend recommendations so this may be useful for keeping users locked into Netflix for longer.
 
-### 6. Organizing films by the mood:
-Alongside the genres filter, it may be possible to organize content based on the mood that is experienced after watching the film.
+**6. Organizing films by the mood:** Alongside the genres filter, it may be possible to organize content based on the mood that is experienced after watching the film.
 
 ## Steps involved
 ### Data cleaning and pre-processing
