@@ -27,4 +27,28 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 
 ## Exploring Solutions
 Having a deeper understanding of what problem we are trying to solve, what the users’ needs, and frustrations are, and what the goals are for achieving the best possible solution for both for the business as well as the user, I began by listing out the possible solutions that were arrived from the research.
-1. Improve rating system: Use the star rating rather than a thumbs up and thumbs down rating system to help guide in decision making when selecting a film.
+**1. Improve rating system:** Use the star rating rather than a thumbs up and thumbs down rating system to help guide in decision making when selecting a film.
+**2. Separate recently watched:** Hide the movies and TV-Shows on a separate page so users don’t have to scroll through those already seen. — users have to do more searching
+**3. Randomize a Movie:** When users are unsure of what to choose, Netflix will randomly select something to watch based on their viewing history.
+**4. Show popular/trending films:** Create a category which showcases only trending content.
+**5. Connect with Friends:** It was proven that users watch shows and movies based on friend recommendations so this may be useful for keeping users locked into Netflix for longer.
+**6. Organizing films by the mood:** Alongside the genres filter, it may be possible to organize content based on the mood that is experienced after watching the film.
+
+## Steps involved
+**Data cleaning and pre-processing:** Here I checked and dealt with missing and duplicate variables from the data set as these can grossly affect the performance of different machine learning algorithms (many algorithms do not tolerate missing data).
+
+**Exploratory Data Analysis:** Here I wanted to gain important statistical insights from the data and the things that I checked for were the distributions of the different attributes, correlations of the attributes with each other and the target variable and I calculated important odds and proportions for the categorical attributes.
+
+**Clustering:** Clustering or cluster analysis is a machine learning technique, which groups the unlabelled dataset. It can be defined as "A way of grouping the data points into different clusters, consisting of similar data points. The objects with the possible similarities remain in a group that has less or no similarities with another group." It does it by finding some similar patterns in the unlabelled dataset such as shape, size, colour, behaviour, etc., and divides them as per the presence and absence of those similar patterns. It is an unsupervised learning method; hence no supervision is provided to the algorithm, and it deals with the unlabeled dataset. After applying this clustering technique, each cluster or group is provided with a cluster-ID. ML systems can use this id to simplify the processing of large and complex datasets.
+
+## Conclusion
+Tt will solve for improved movie and TV-Show selection times with a considerable growth in satisfaction of the content being consumed leading to more user engagement and greater trust in Netflix recommendations.
+
+## Reference
+
+1. https://www.marketing360.in/the-rise-of-netflix
+2. https://machinelearningmastery.com/clustering-algorithms-with-python
+3. https://towardsdatascience.com/introduction-to-machine-learning-algorith
+4. https://towardsdatascience.com/silhouette-coefficient-validating-clustering-techniques
+5. https://neo4j.com/docs/graph-data-science/current/alpha-algorithms/cosine/#:~:text=Cosine%20similarity%20is%20the%20cosine,'%20lengths%20(or%20magnitudes)
+
